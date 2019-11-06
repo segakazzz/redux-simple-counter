@@ -5,7 +5,7 @@ const initialCounter = {
 
 const initialState = {
     counters: [
-        initialCounter
+        {...initialCounter}
     ]
 }
 
